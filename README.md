@@ -1,2 +1,2 @@
 # stabAAA
-Public code for the stabAAA algorithm
+Public code for the stabAAA algorithm. Coming Soon.
